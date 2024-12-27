@@ -1,3 +1,5 @@
+#Check if a number is a palindrome(a word or number typed the same way backwards)
+
 class Solution:
     def isPalindrome(x: int) -> bool:
         arr = []
